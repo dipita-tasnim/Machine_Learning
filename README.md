@@ -30,17 +30,6 @@ The dataset includes the following features:
 - staff_experience: Experience level (Beginner/Intermediate/Expert)
 - waste_category: Type of waste (Meat/Dairy/Vegetables/Grains)
 
-## Setup and Installation
-
-1. Clone the repository
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the main script:
-   ```bash
-   python myProject.py
-   ```
 
 ## Analysis Steps
 
