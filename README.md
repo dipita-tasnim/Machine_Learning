@@ -50,4 +50,4 @@ The dataset includes the following features:
 The project implements multiple regression models to predict food waste. The performance of each model is evaluated using R2 score and Mean Squared Error metrics. Visualizations are generated to compare model performance and understand feature correlations.
 
 
-Project Report(https://docs.google.com/document/d/1tlXQ02P1SwYLxzZVeruEJKkpTD8BtKVnLQKk8V2cbFY/edit?tab=t.0)
+##[Project Report](https://docs.google.com/document/d/1tlXQ02P1SwYLxzZVeruEJKkpTD8BtKVnLQKk8V2cbFY/edit?tab=t.0)
