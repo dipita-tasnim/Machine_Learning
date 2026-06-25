@@ -4,7 +4,6 @@ A machine learning project that predicts daily food waste (in kilograms) for foo
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3.0-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
